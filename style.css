@@ -1,0 +1,28 @@
+.result {
+    width: fit-content;
+    height: fit-content;
+    margin: 0 auto;
+    padding: 1.5em;
+    margin-top: 30px;
+    font-size: xx-large;
+    color: aliceblue;
+}
+#results {
+    background-color: transparent;
+    margin-top: 20px;
+    border: 1px solid #0000;
+    color: aliceblue;
+    width: fit-content;
+    height: fit-content;
+    font-size: x-large;
+    
+}
+img {
+    padding-top: 75px;
+    height: fit-content;
+    width: fit-content;
+}
+
+body {
+    background-image: linear-gradient(90deg, black,rgb(49, 47, 47));
+}
